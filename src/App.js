@@ -7,8 +7,8 @@ function App() {
     <div className="App">
      <h1>Let's Upgrade Assignment React</h1>
 <HomeWork/>
-<Message name="Let's Upgrade"/>
-<Message name="Sunny Mawani"/>
+<Message />
+<Message />
     </div>
   );
 }

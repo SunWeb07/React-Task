@@ -1,9 +1,9 @@
-const Message=(props)=>{
+const Message=()=>{
 
 return(
 
 <div>
-<h4>Message from {props.name}</h4>
+<h4>Message from Let's Upgrade</h4>
 <p>This is message to show how component works</p>
 </div>
 );
